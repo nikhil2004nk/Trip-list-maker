@@ -2,6 +2,8 @@
 
 A simple and intuitive React app to help you create, manage, and track your packing list for any trip. Add items, set quantities, mark items as packed, sort your list, and see your packing progress at a glance.
 
+🌐 **Live Demo:** [https://nikhil2004nk.github.io/Trip-list-maker](https://nikhil2004nk.github.io/Trip-list-maker)
+
 ## Features
 - Add items with quantity to your packing list
 - Mark items as packed/unpacked
@@ -15,7 +17,7 @@ A simple and intuitive React app to help you create, manage, and track your pack
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/nikhil2004nk/Trip-list-maker.git
    cd Trip-list-maker
    ```
 2. Install dependencies:
@@ -57,6 +59,7 @@ Trip-list-maker/
 - `npm start` – Run the app in development mode
 - `npm run build` – Build the app for production
 - `npm test` – Run tests (if any)
+- `npm run deploy` – Deploy to GitHub Pages
 
 ---
 
