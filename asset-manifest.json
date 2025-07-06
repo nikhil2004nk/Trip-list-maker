@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Trip-list-maker/static/css/main.ca701611.css",
+    "main.js": "/Trip-list-maker/static/js/main.8ba4651c.js",
+    "index.html": "/Trip-list-maker/index.html",
+    "main.ca701611.css.map": "/Trip-list-maker/static/css/main.ca701611.css.map",
+    "main.8ba4651c.js.map": "/Trip-list-maker/static/js/main.8ba4651c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca701611.css",
+    "static/js/main.8ba4651c.js"
+  ]
+}
